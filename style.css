@@ -73,6 +73,7 @@ button:focus{
   position: absolute;
   left: 670px;
   margin-top: 20px;
+  color: rgb(241, 171, 66);
 }
 @media (max-width: 720px) {
   .quiz-container{
